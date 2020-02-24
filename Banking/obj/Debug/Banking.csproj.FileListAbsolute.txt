@@ -1,0 +1,11 @@
+D:\Manukau Institute of Technology\Quarter 07\Applied Software Testing\Banking Testing Project 170007434\Banking\Banking\bin\Debug\Banking.dll
+D:\Manukau Institute of Technology\Quarter 07\Applied Software Testing\Banking Testing Project 170007434\Banking\Banking\bin\Debug\Banking.pdb
+D:\Manukau Institute of Technology\Quarter 07\Applied Software Testing\Banking Testing Project 170007434\Banking\Banking\obj\Debug\Banking.csprojAssemblyReference.cache
+D:\Manukau Institute of Technology\Quarter 07\Applied Software Testing\Banking Testing Project 170007434\Banking\Banking\obj\Debug\Banking.csproj.CoreCompileInputs.cache
+D:\Manukau Institute of Technology\Quarter 07\Applied Software Testing\Banking Testing Project 170007434\Banking\Banking\obj\Debug\Banking.dll
+D:\Manukau Institute of Technology\Quarter 07\Applied Software Testing\Banking Testing Project 170007434\Banking\Banking\obj\Debug\Banking.pdb
+D:\Manukau Institute of Technology\Quarter 07\Applied Software Testing\Banking Testing Project 170007434\Banking\bin\Debug\Banking.dll
+D:\Manukau Institute of Technology\Quarter 07\Applied Software Testing\Banking Testing Project 170007434\Banking\bin\Debug\Banking.pdb
+D:\Manukau Institute of Technology\Quarter 07\Applied Software Testing\Banking Testing Project 170007434\Banking\obj\Debug\Banking.csprojAssemblyReference.cache
+D:\Manukau Institute of Technology\Quarter 07\Applied Software Testing\Banking Testing Project 170007434\Banking\obj\Debug\Banking.dll
+D:\Manukau Institute of Technology\Quarter 07\Applied Software Testing\Banking Testing Project 170007434\Banking\obj\Debug\Banking.pdb
